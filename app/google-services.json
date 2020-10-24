@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943983681234",
+    "firebase_url": "https://sns-project-d6690.firebaseio.com",
+    "project_id": "sns-project-d6690",
+    "storage_bucket": "sns-project-d6690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943983681234:android:e62ce9d7fd58fd5ee2d70b",
+        "android_client_info": {
+          "package_name": "org.techtown.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943983681234-efbp9gc2n9g7a9gj54huadec21ra8ja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVdz61faGeXLb1jQ0mvIYZHbNVULvGi6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943983681234-efbp9gc2n9g7a9gj54huadec21ra8ja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
